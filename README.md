@@ -17,10 +17,10 @@ About Me
 - Leetcode: https://leetcode.com/u/lakhangarg18/
 
 🌟 Featured Projects
-- [Project 1](https://github.com/Lakhangarg18/Blogspot) - A firebase with react implemented blog website.
-- [Project 2](https://github.com/Lakhangarg18/Docs-Mini-App) - A Mini app for storing important documents.
+- [Blogspot](https://github.com/Lakhangarg18/Blogspot) - A firebase with react implemented blog website.
+- [Docs Mini App](https://github.com/Lakhangarg18/Docs-Mini-App) - A Mini app for storing important documents.
 
-## 💼 Experience
+💼 Experience
 - Edgent.ai - React Developer
 - Created a robust one-to-one chat application for end to end coomunication in between mentor and mentii.
 
@@ -28,6 +28,6 @@ About Me
 - Traveling
 - Rapping
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakhangarg18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhangarg18e&layout=compact&theme=radical)
