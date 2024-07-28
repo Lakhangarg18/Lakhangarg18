@@ -30,4 +30,4 @@ About Me
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lakhangarg18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhangarg18e&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhangarg18&layout=compact&theme=radical)
