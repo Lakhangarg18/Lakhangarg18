@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Profile Image](https://raw.githubusercontent.com/Lakhangarg18/1. (1).jpg)
+![Profile Image](https://raw.githubusercontent.com/Lakhangarg18/Lakhangarg18/1. (1).jpg)
 
 
  I am Lakhan Garg, a passionate Mern developer with expertise in various programming languages and technologies.
