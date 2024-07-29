@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Profile Image](https://github.com/Lakhangarg18/Lakhangarg18/blob/main/l..jpg)
+![Profile Image](https://github.com/Lakhangarg18/Lakhangarg18/blob/main/1..jpg)
 
 
 
