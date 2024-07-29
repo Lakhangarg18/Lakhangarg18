@@ -1,10 +1,5 @@
 # Hi there 👋
-
-![Profile Image](https://github.com/Lakhangarg18/Lakhangarg18/blob/main/1..jpg)
-
-
-
- I am Lakhan Garg, a passionate Mern developer with expertise in various programming languages and technologies.
+I  Lakhan Garg, as a skilled MERN stack developer, specialize in creating dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js. With a strong foundation in both front-end and back-end development, I am adapt at designing, building, and maintaining robust and scalable applications. My expertise includes developing RESTful APIs, implementing user authentication, and managing databases. I am passionate about leveraging the latest technologies and best practices to deliver high-quality, user-friendly solutions that meet the needs of clients and users alike. In addition to my technical skills, I am committed to continuous learning and staying updated with industry trends to ensure that my projects are always at the cutting edge of web development.
 
 🔧 Skills
 - Languages: JavaScript, HTML, C++
